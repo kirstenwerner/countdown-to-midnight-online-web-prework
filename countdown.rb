@@ -2,5 +2,5 @@
 
 def countdown(sec)
   
-  "HAPPY NEW YEAR"
+  "HAPPY NEW YEAR!"
 end
